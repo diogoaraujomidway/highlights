@@ -2,13 +2,22 @@
 	"response": {
 		"data": [
 			{
-				"url": "https://www1.folha.uol.com.br/mpme/2021/08/open-banking-deve-ajudar-a-driblar-desconfianca-de-clientes-com-fintechs.shtml"
+				"url": "https://vocesa.abril.com.br/financas-pessoais/open-banking-entenda-o-poder-de-ser-dono-dos-seus-dados-bancarios/",
+				"title": "Open banking: entenda o poder de ser dono dos seus dados bancários",
+				"description": "Você muda de banco, leva seu histórico junto e ainda coloca as instituições financeiras para lutar pelo seu dinheiro. Saiba como vai funcionar.",
+				"image": "https://vocesa.abril.com.br/wp-content/uploads/2021/07/sa278_openbanking-tt.png"
 			},
 			{
-				"url": "https://g1.globo.com/economia/noticia/2021/02/01/open-banking-e-uma-das-iniciativas-para-criar-o-sistema-financeiro-do-futuro-diz-presidente-do-bc.ghtml"
+				"url": "https://invest.exame.com/mf/com-open-banking-empresa-pode-reduzir-parcelas-de-dividas-em-ate-30",
+				"title": "Com open banking, empresa ajuda a reduzir parcelas de dívidas em até 30% | Exame Invest",
+				"description": "Plataforma Scora indica financiamento do carro, casa ou empréstimos mais baratos com base em dados do sistema financeiro aberto",
+				"image": "https://exame.com/wp-content/uploads/2020/07/serasa-limpa-nome.jpg?quality=70&strip=info&w=1024"
 			},
 			{
-				"url": "https://www.infomoney.com.br/guias/open-banking/"
+				"url": "https://www.infomoney.com.br/guias/open-banking/",
+				"title": "Open banking: o que é e como funciona? - InfoMoney",
+				"description": "O open banking, novo sistema que promete revolucionar a indústria financeira, está sendo implementado no Brasil. Entenda como funciona",
+				"image": "https://www.infomoney.com.br/wp-content/uploads/2021/03/O-que-e-Open-Banking-e-como-funciona.jpg?fit=1920%2C1080&quality=50&strip=all"
 			}
 		]
 	}
